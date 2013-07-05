@@ -219,6 +219,7 @@ w.lk = {
               color: #71acfb; \
             } \
           #lk-info p { \
+            color: #fff; \
             margin-top: 10px; \
           } \
     .lk-btnfld { \
